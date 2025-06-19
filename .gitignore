@@ -1,1 +1,10 @@
 .venv/ 
+
+*.png
+*.npz
+*.pkl
+
+runs/
+
+lunar_dqn_safe.pt
+
